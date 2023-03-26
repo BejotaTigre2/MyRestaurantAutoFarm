@@ -1,6 +1,5 @@
--- [[ Execute the raw html or copy the whole thing.
-This script is NOT MINE. I take zero credit from this, and it all goes to the original owner.
-
+-- [[ 
+     This script is NOT MINE. I take zero credit from this, and it all goes to the original owner.
 ]] --
 local fpsBoost = fpsBoost or false
 
